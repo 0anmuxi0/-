@@ -1,0 +1,8 @@
+{
+  "item.cmlinkedremote.linked_remote": "关联遥控器",
+  "item.cmlinkedremote.linked_remote.tooltip.summary": "提供对_红石连接器_频率的_手持式遥控_能力。",
+  "item.cmlinkedremote.linked_remote.tooltip.condition1": "右键点击",
+  "item.cmlinkedremote.linked_remote.tooltip.behaviour1": "_激活_遥控器。",
+  "item.cmlinkedremote.linked_remote.tooltip.condition2": "潜行时右键点击",
+  "item.cmlinkedremote.linked_remote.tooltip.behaviour2": "打开手动_配置界面_。"
+}
